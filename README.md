@@ -30,3 +30,9 @@ You're busted! -  and just with Bubble Gum And Bailing Wire... ok and some Duct 
 * [Outside the Closed World: On Using Machine Learning For Network Intrusion Detection](http://www.utdallas.edu/~muratk/courses/dmsec_files/oakland10-ml.pdf)
 * []()
 * ...
+
+## see also
+
+* [Cyber Defence Monitoring Course Suite](https://github.com/ccdcoe/CDMCS)
+* [](https://ccdcoe.org/event/technical-courses.html)
+* [](https://ccdcoe.org/event/cyber-defence-exercises.html)
