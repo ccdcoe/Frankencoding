@@ -21,5 +21,10 @@ You're busted! -  and just with Bubble Gum And Bailing Wire... ok and some Duct 
 * [Moloch is a large scale full PCAP capturing, indexing and database system.](https://github.com/aol/moloch)
 * [Ngraph is a set of graph related algorithms.](https://github.com/anvaka/ngraph)
 * [ngraph.pixel is fast graph renderer based on low level ShaderMaterial from three.js](https://github.com/anvaka/ngraph.pixel)
+* ...
 
+## Reading materials
+
+* [Outside the Closed World: On Using Machine Learning For Network Intrusion Detection](http://www.utdallas.edu/~muratk/courses/dmsec_files/oakland10-ml.pdf)
+* []()
 * ...
