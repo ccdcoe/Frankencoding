@@ -27,6 +27,8 @@ You're busted! -  and just with Bubble Gum And Bailing Wire... ok and some Duct 
 
 ## Reading materials
 
+![https://twitter.com/hughcards/status/423952995240648704](https://pbs.twimg.com/media/Bq8s4gsCAAAdr18.jpg)
+
 * [Outside the Closed World: On Using Machine Learning For Network Intrusion Detection](http://www.utdallas.edu/~muratk/courses/dmsec_files/oakland10-ml.pdf)
 * []()
 * ...
@@ -34,5 +36,5 @@ You're busted! -  and just with Bubble Gum And Bailing Wire... ok and some Duct 
 ## see also
 
 * [Cyber Defence Monitoring Course Suite](https://github.com/ccdcoe/CDMCS)
-* [](https://ccdcoe.org/event/technical-courses.html)
-* [](https://ccdcoe.org/event/cyber-defence-exercises.html)
+* [Technical Courses](https://ccdcoe.org/event/technical-courses.html)
+* [Cyber Defence Exercises](https://ccdcoe.org/event/cyber-defence-exercises.html)
