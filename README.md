@@ -1,5 +1,8 @@
 # Frankencoding
 
+![https://twitter.com/hughcards/status/423952995240648704](https://pbs.twimg.com/media/Bq8s4gsCAAAdr18.jpg)
+
+
 You're busted! -  and just with Bubble Gum And Bailing Wire... ok and some Duct Tape also used
 
 * [Snoopy is a tiny library that logs all executed commands + arguments on your system.](https://github.com/a2o/snoopy)
@@ -27,10 +30,9 @@ You're busted! -  and just with Bubble Gum And Bailing Wire... ok and some Duct 
 
 ## Reading materials
 
-![https://twitter.com/hughcards/status/423952995240648704](https://pbs.twimg.com/media/Bq8s4gsCAAAdr18.jpg)
 
 * [Outside the Closed World: On Using Machine Learning For Network Intrusion Detection](http://www.utdallas.edu/~muratk/courses/dmsec_files/oakland10-ml.pdf)
-* []()
+* [Left-Leaning Red-Black Trees Considered Harmful](http://www.read.seas.harvard.edu/~kohler/notes/llrb.html)
 * ...
 
 ## see also
