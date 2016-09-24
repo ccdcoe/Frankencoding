@@ -37,7 +37,7 @@ You're busted! -  and just with Bubble Gum And Bailing Wire... ok and some Duct 
 
 ----
 
-<img alt="https://random-blather.com/2014/04/28/information-isnt-power/" src="https://randomblatherdotcom.files.wordpress.com/2014/04/bmust7rcuaa6ueo-jpg-large.jpeg " width="512">
+<img alt="https://random-blather.com/2014/04/28/information-isnt-power/" src="https://randomblatherdotcom.files.wordpress.com/2014/04/bmust7rcuaa6ueo-jpg-large.jpeg" width="512">
 
 ## see also
 
