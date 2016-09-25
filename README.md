@@ -10,6 +10,8 @@ You're busted! -  and just with Bubble Gum And Bailing Wire... ok and some Duct 
 * [Heka is a tool for collecting and collating data from a number of different sources, performing "in-flight" processing of collected data, and delivering the results to any number of destinations for further analysis.](https://github.com/mozilla-services/heka/)
 * [Hindsight is lighter weight and faster data pipeline with delivery guarantees to replace Heka](https://github.com/mozilla-services/hindsight)
 * [The nanomsg library is a simple high-performance implementation of several "scalability protocols". ](https://github.com/nanomsg/nanomsg)
+* [package mangos is an implementation in pure Go of the SP ("Scalable Protocols") protocols.](https://github.com/go-mangos/mangos)
+* 
 * [idiokit is a  Python 2.x library for asynchronous tasks](https://github.com/abusesa/idiokit)
 * [MISP is Malware Information Sharing Platform and Threat Sharing.](https://github.com/MISP/MISP)
 * [Suricata is a high performance Network IDS, IPS and Network Security Monitoring engine](https://github.com/inliniac/suricata)
@@ -25,7 +27,7 @@ You're busted! -  and just with Bubble Gum And Bailing Wire... ok and some Duct 
 * [Kibana is a data visualization plugin for Elasticsearch.](https://github.com/elastic/kibana)
 * [Moloch is a large scale full PCAP capturing, indexing and database system.](https://github.com/aol/moloch)
 * [Neo4j is the Graph Database.](https://github.com/neo4j/neo4j)
-* [Cayley is an open-source graph to be a part of the developer's toolbox](https://github.com/cayleygraph/cayley) 
+* [Cayley is an open-source graph to be a part of the developer's toolbox](https://github.com/cayleygraph/cayley)
 * [Ngraph is a set of graph related algorithms.](https://github.com/anvaka/ngraph)
 * [ngraph.pixel is fast graph renderer based on low level ShaderMaterial from three.js](https://github.com/anvaka/ngraph.pixel)
 * ...
