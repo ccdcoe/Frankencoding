@@ -24,6 +24,8 @@ You're busted! -  and just with Bubble Gum And Bailing Wire... ok and some Duct 
 * [Elasticsearch - A Distributed RESTful Search Engine](https://github.com/elastic/elasticsearch)
 * [Kibana is a data visualization plugin for Elasticsearch.](https://github.com/elastic/kibana)
 * [Moloch is a large scale full PCAP capturing, indexing and database system.](https://github.com/aol/moloch)
+* [Neo4j is the Graph Database.](https://github.com/neo4j/neo4j)
+* [Cayley is an open-source graph to be a part of the developer's toolbox](https://github.com/cayleygraph/cayley) 
 * [Ngraph is a set of graph related algorithms.](https://github.com/anvaka/ngraph)
 * [ngraph.pixel is fast graph renderer based on low level ShaderMaterial from three.js](https://github.com/anvaka/ngraph.pixel)
 * ...
