@@ -7,11 +7,11 @@ You're busted! -  and just with Bubble Gum And Baling Wire... ok and some Duct T
 
 * [Snoopy is a tiny library that logs all executed commands + arguments on your system.](https://github.com/a2o/snoopy)
 * [RSYSLOG is the rocket-fast system for log processing.](https://github.com/rsyslog/rsyslog)
+* [With syslog-ng, you can collect logs from any source, process them in near real-time and deliver them to a wide variety of destinations](https://www.balabit.com/documents/syslog-ng-ose-latest-guides/en/syslog-ng-ose-guide-admin/html/index.html)
 * [Heka is a tool for collecting and collating data from a number of different sources, performing "in-flight" processing of collected data, and delivering the results to any number of destinations for further analysis.](https://github.com/mozilla-services/heka/)
 * [Hindsight is lighter weight and faster data pipeline with delivery guarantees to replace Heka](https://github.com/mozilla-services/hindsight)
 * [The nanomsg library is a simple high-performance implementation of several "scalability protocols". ](https://github.com/nanomsg/nanomsg)
 * [package mangos is an implementation in pure Go of the SP ("Scalable Protocols") protocols.](https://github.com/go-mangos/mangos)
-* 
 * [idiokit is a  Python 2.x library for asynchronous tasks](https://github.com/abusesa/idiokit)
 * [MISP is Malware Information Sharing Platform and Threat Sharing.](https://github.com/MISP/MISP)
 * [Suricata is a high performance Network IDS, IPS and Network Security Monitoring engine](https://github.com/inliniac/suricata)
@@ -31,6 +31,10 @@ You're busted! -  and just with Bubble Gum And Baling Wire... ok and some Duct T
 * [Cayley is an open-source graph to be a part of the developer's toolbox](https://github.com/cayleygraph/cayley)
 * [Ngraph is a set of graph related algorithms.](https://github.com/anvaka/ngraph)
 * [ngraph.pixel is fast graph renderer based on low level ShaderMaterial from three.js](https://github.com/anvaka/ngraph.pixel)
+* [TensorFlow is an open source software library for numerical computation using data flow graphs.](https://github.com/tensorflow/tensorflow)
+* [scikit-learn: machine learning in Python](https://github.com/scikit-learn/scikit-learn)
+* [LogCluster is an experimental Perl-based tool for log file clustering and
+mining line patterns from log files](https://github.com/ristov/ristov.github.io/tree/master/logcluster)
 * ...
 
 ## Reading materials
