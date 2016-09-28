@@ -3,7 +3,7 @@
 
 <img alt="https://twitter.com/hughcards/status/423952995240648704" src="https://pbs.twimg.com/media/Bq8s4gsCAAAdr18.jpg" width="256">
 
-You're busted! -  and just with Bubble Gum And Bailing Wire... ok and some Duct Tape also used
+You're busted! -  and just with Bubble Gum And Baling Wire... ok and some Duct Tape is also used
 
 * [Snoopy is a tiny library that logs all executed commands + arguments on your system.](https://github.com/a2o/snoopy)
 * [RSYSLOG is the rocket-fast system for log processing.](https://github.com/rsyslog/rsyslog)
@@ -21,6 +21,7 @@ You're busted! -  and just with Bubble Gum And Bailing Wire... ok and some Duct 
 * [Telegraf is an plugin-driven agent for collecting & reporting metrics.](https://github.com/influxdata/telegraf)
 * [InfluxDB is scalable datastore for metrics, events, and real-time analytics](https://github.com/influxdata/influxdb)
 * [Kapacitor is a framework for processing, monitoring, and alerting on time series data](https://github.com/influxdata/kapacitor)
+* [SEC is an event correlation tool for event log monitoring, network and security management](https://simple-evcorr.github.io/)
 * [The alerta monitoring system is a tool used to consolidate and de-duplicate alerts from multiple sources for quick ‘at-a-glance’ visualisation. ](https://github.com/guardian/alerta)
 * [Grafana - Gorgeous metric viz, dashboards & editors](https://github.com/grafana/grafana)
 * [Elasticsearch - A Distributed RESTful Search Engine](https://github.com/elastic/elasticsearch)
