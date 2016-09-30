@@ -42,6 +42,7 @@ mining line patterns from log files](https://github.com/ristov/ristov.github.io/
 
 * [Outside the Closed World: On Using Machine Learning For Network Intrusion Detection](http://www.utdallas.edu/~muratk/courses/dmsec_files/oakland10-ml.pdf)
 * [Left-Leaning Red-Black Trees Considered Harmful](http://www.read.seas.harvard.edu/~kohler/notes/llrb.html)
+* [Stratosphere IPS. Generation of the Behavioral Models](https://stratosphereips.org/stratosphere-ips-generation-of-the-behavioral-models.html)
 * ...
 
 ----
