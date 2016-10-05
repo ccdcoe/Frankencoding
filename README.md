@@ -5,6 +5,8 @@
 
 You're busted! -  and just with Bubble Gum And Baling Wire... ok and some Duct Tape is also used
 
+* [Netflow processing tools](https://github.com/phaag/nfdump)
+* [Nfdump version for Open Network Insight](https://github.com/Open-Network-Insight/oni-nfdump)
 * [Snoopy is a tiny library that logs all executed commands + arguments on your system.](https://github.com/a2o/snoopy)
 * [RSYSLOG is the rocket-fast system for log processing.](https://github.com/rsyslog/rsyslog)
 * [With syslog-ng, you can collect logs from any source, process them in near real-time and deliver them to a wide variety of destinations](https://www.balabit.com/documents/syslog-ng-ose-latest-guides/en/syslog-ng-ose-guide-admin/html/index.html)
