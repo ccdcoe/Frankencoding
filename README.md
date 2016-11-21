@@ -50,7 +50,7 @@ mining line patterns from log files](https://github.com/ristov/ristov.github.io/
 
 ----
 
-<img alt="https://random-blather.com/2014/04/28/information-isnt-power/" src="https://randomblatherdotcom.files.wordpress.com/2014/04/bmust7rcuaa6ueo-jpg-large.jpeg" width="512">
+[<img alt="https://random-blather.com/2014/04/28/information-isnt-power/" src="https://randomblatherdotcom.files.wordpress.com/2014/04/bmust7rcuaa6ueo-jpg-large.jpeg" width="512">](Data2Info2Knowledge.md)
 
 ## see also
 
