@@ -106,7 +106,10 @@ This repository houses a list of open-source tools, libraries, projects, etc tha
 
 * [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
   * [Conquer of Completion](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode 
+    * [coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim 
+    * [coc-python](https://github.com/neoclide/coc-python) - Python extension for coc.nvim
   * [plug](https://github.com/junegunn/vim-plug) - Minimalist Vim Plugin Manager 
+  * [vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 * [vscode](https://github.com/microsoft/vscode) - Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control.
 * [juno](https://github.com/JunoLab) - Juno is a powerful, free environment for the Julia language. 
 * [Jupyter lab](https://github.com/jupyterlab/jupyterlab) - An extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture. 
@@ -116,38 +119,44 @@ This repository houses a list of open-source tools, libraries, projects, etc tha
 ### Libraries
 
 * [Pandas](https://pandas.pydata.org/pandas-docs/stable/) - powerful Python data analysis toolkit
+* [matplotlob](https://github.com/matplotlib/matplotlib) - plotting with Python
 
 ## Data science
 
 ### Tools
+
 * [LogCluster](https://github.com/ristov/ristov.github.io/tree/master/logcluster) - experimental Perl-based tool for log file clustering and mining line patterns from log files
 
 ### Libraries
-* [scikit-learn: machine learning in Python](https://github.com/scikit-learn/scikit-learn)
+
+* [scikit-learn](https://github.com/scikit-learn/scikit-learn) - machine learning in Python
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
   * [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 * [Ngraph](https://github.com/anvaka/ngraph) - a set of graph related algorithms.
-  * [ngraph.pixel is fast graph renderer based on low level ShaderMaterial from three.js](https://github.com/anvaka/ngraph.pixel)
-* [Cayley is an open-source graph to be a part of the developer's toolbox](https://github.com/cayleygraph/cayley)
+  * [ngraph.pixel](https://github.com/anvaka/ngraph.pixel) - fast graph renderer based on low level ShaderMaterial from three.js
+* [Cayley](https://github.com/cayleygraph/cayley) - an open-source graph to be a part of the developer's toolbox
 
 ## Message queue and data pipelining
-* [Heka is a tool for collecting and collating data from a number of different sources, performing "in-flight" processing of collected data, and delivering the results to any number of destinations for further analysis.](https://github.com/mozilla-services/heka/)
-* [Hindsight is lighter weight and faster data pipeline with delivery guarantees to replace Heka](https://github.com/mozilla-services/hindsight)
-* [The nanomsg library is a simple high-performance implementation of several "scalability protocols". ](https://github.com/nanomsg/nanomsg)
-* [package mangos is an implementation in pure Go of the SP ("Scalable Protocols") protocols.](https://github.com/go-mangos/mangos)
-* [Kapacitor is a framework for processing, monitoring, and alerting on time series data](https://github.com/influxdata/kapacitor)
+
+* [Heka](https://github.com/mozilla-services/heka/) - Heka is a tool for collecting and collating data from a number of different sources, performing "in-flight" processing of collected data, and delivering the results to any number of destinations for further analysis.
+* [Hindsight](https://github.com/mozilla-services/hindsight) - Hindsight is lighter weight and faster data pipeline with delivery guarantees to replace Heka.
+* [nanomsg](https://github.com/nanomsg/nanomsg) - The nanomsg library is a simple high-performance implementation of several "scalability protocols". 
+* [mangos](https://github.com/go-mangos/mangos) - Package mangos is an implementation in pure Go of the SP ("Scalable Protocols") protocols.
+* [Kapacitor](https://github.com/influxdata/kapacitor) - Framework for processing, monitoring, and alerting on time series data.
+* [Kafka](https://github.com/apache/kafka) - A distributed streaming platform.
+* [Apache Pulsar](https://github.com/apache/pulsar) - Distributed pub-sub messaging system.
 
 ## Threat intel
-* [MISP is Malware Information Sharing Platform and Threat Sharing.](https://github.com/MISP/MISP)
+
+* [Malware Information Sharing Platform and Threat Sharing (MISP)](https://github.com/MISP/MISP) - Open Source Threat Intelligence and Sharing Platform
+* [Semi-Automated Cyber Threat Intelligence - ACT](https://github.com/mnemonic-no/act) - The main objective of the ACT project is to develop a platform for cyber threat intelligence to uncover cyber attacks, cyber espionage and sabotage. 
+* [MITRE ATT&CK](https://mitre-attack.github.io/attack-navigator/enterprise/) -  Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
 
 ## Metrics and alerting
-* [Telegraf is an plugin-driven agent for collecting & reporting metrics.](https://github.com/influxdata/telegraf)
+
+* [Telegraf](https://github.com/influxdata/telegraf) - Telegraf is an plugin-driven agent for collecting & reporting metrics.
 
 ## Reading materials
-
-* [Left-Leaning Red-Black Trees Considered Harmful](http://www.read.seas.harvard.edu/~kohler/notes/llrb.html)
-* [Stratosphere IPS. Generation of the Behavioral Models](https://stratosphereips.org/stratosphere-ips-generation-of-the-behavioral-models.html)
-* ...
 
 ----
 
