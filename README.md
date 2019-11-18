@@ -146,11 +146,17 @@ This repository houses a list of open-source tools, libraries, projects, etc tha
 * [Kafka](https://github.com/apache/kafka) - A distributed streaming platform.
 * [Apache Pulsar](https://github.com/apache/pulsar) - Distributed pub-sub messaging system.
 
-## Threat intel
+## Hunting
+
+### Intelligence platforms
 
 * [Malware Information Sharing Platform and Threat Sharing (MISP)](https://github.com/MISP/MISP) - Open Source Threat Intelligence and Sharing Platform
 * [Semi-Automated Cyber Threat Intelligence - ACT](https://github.com/mnemonic-no/act) - The main objective of the ACT project is to develop a platform for cyber threat intelligence to uncover cyber attacks, cyber espionage and sabotage. 
 * [MITRE ATT&CK](https://mitre-attack.github.io/attack-navigator/enterprise/) -  Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
+
+### Playbooks
+
+* [Threat hunters playbook](https://github.com/hunters-forge/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
 
 ## Metrics and alerting
 
