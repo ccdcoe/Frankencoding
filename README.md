@@ -42,6 +42,7 @@ This repository houses a list of open-source tools, libraries, projects, etc tha
   * [Documentation](https://rsyslog.readthedocs.io/en/latest/index.html)
   * [liblognorm](https://github.com/rsyslog/liblognorm) - A fast samples-based log normalization library. 
 * [Syslog-ng](https://github.com/syslog-ng/syslog-ng)
+* [Fever](https://github.com/DCSO/fever) - fast, extensible, versatile event router for Suricata's EVE-JSON format 
 
 ### Correlation
 
@@ -49,13 +50,26 @@ This repository houses a list of open-source tools, libraries, projects, etc tha
 
 ## Databases
 
+### Search engines
+
+* [Visibility Across Space and Time (VAST)](https://github.com/tenzir/vast) - is a scalable foundation for a security operations center (SOC): a rich data model for security data, high-throughput ingestion of telemetry, low-latency search, and flexible export in various formats.
+
 ### Graph
-* [Neo4j is the Graph Database.](https://github.com/neo4j/neo4j)
+* [Neo4j](https://github.com/neo4j/neo4j) - Neo4j is the world’s leading Graph Database.
+
+### SQL
+
+* [SQLite](https://github.com/sqlite/sqlite) - SQLite is a relational database management system contained in a C library. In contrast to many other database management systems, SQLite is not a client–server database engine. Rather, it is embedded into the end program.
+* [MariaDB](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. 
+* [CockroachDB](https://github.com/cockroachdb/cockroach) - the open source, cloud-native SQL database. 
 
 ### NoSQL
 
-* [Elasticsearch - A Distributed RESTful Search Engine](https://github.com/elastic/elasticsearch)
-* [InfluxDB is scalable datastore for metrics, events, and real-time analytics](https://github.com/influxdata/influxdb)
+* [Cassandra](https://github.com/apache/cassandra) - Apache Cassandra is a highly-scalable partitioned row store.
+* [Elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
+  * [Install elastic with docker](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html)
+* [InfluxDB](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
+* [Prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. 
 
 ## Web interfaces and API-s
 
