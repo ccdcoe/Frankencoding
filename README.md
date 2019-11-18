@@ -38,10 +38,10 @@ This repository houses a list of open-source tools, libraries, projects, etc tha
 
 ### Collecting, shipping, stream processing
 
-* [Rsyslog](https://github.com/rsyslog/rsyslog) - https://github.com/rsyslog/rsyslog
+* [Rsyslog](https://github.com/rsyslog/rsyslog) - RSYSLOG is the rocket-fast system for log processing.
   * [Documentation](https://rsyslog.readthedocs.io/en/latest/index.html)
   * [liblognorm](https://github.com/rsyslog/liblognorm) - A fast samples-based log normalization library. 
-* [Syslog-ng](https://github.com/syslog-ng/syslog-ng)
+* [Syslog-ng](https://github.com/syslog-ng/syslog-ng) - free and open-source implementation of the syslog protocol for Unix and Unix-like systems.
 * [Fever](https://github.com/DCSO/fever) - fast, extensible, versatile event router for Suricata's EVE-JSON format 
 
 ### Correlation
