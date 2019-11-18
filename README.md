@@ -30,16 +30,22 @@ This repository houses a list of open-source tools, libraries, projects, etc tha
 
 ### Sources
 
-* [Snoopy is a tiny library that logs all executed commands + arguments on your system.](https://github.com/a2o/snoopy)
+* [Snoopy](https://github.com/a2o/snoopy) - Log every executed command to syslog (a.k.a. Snoopy Logger).
+  * [Improve logging format](https://github.com/ccdcoe/frankenstack/blob/master/states/blue/snoopy/config/config.ini), [normalize snoopy messages using liblognorm](https://github.com/ccdcoe/frankenstack/blob/master/states/yellow/logserver/config-rsyslog/snoopy.rulebase)
+* [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon) - Make Windows logging great again
+  * [SwiftOnSecurity configs](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing 
+  * [Olaf Hartong configs](https://github.com/olafhartong/sysmon-configs) - Enhanced sysmon configs with MITRE ID-s
 
-### Collecting and shipping
+### Collecting, shipping, stream processing
 
-* [RSYSLOG is the rocket-fast system for log processing.](https://github.com/rsyslog/rsyslog)
-* [With syslog-ng, you can collect logs from any source, process them in near real-time and deliver them to a wide variety of destinations](https://www.balabit.com/documents/syslog-ng-ose-latest-guides/en/syslog-ng-ose-guide-admin/html/index.html)
+* [Rsyslog](https://github.com/rsyslog/rsyslog) - https://github.com/rsyslog/rsyslog
+  * [Documentation](https://rsyslog.readthedocs.io/en/latest/index.html)
+  * [liblognorm](https://github.com/rsyslog/liblognorm) - A fast samples-based log normalization library. 
+* [Syslog-ng](https://github.com/syslog-ng/syslog-ng)
 
 ### Correlation
 
-* [SEC is an event correlation tool for event log monitoring, network and security management](https://simple-evcorr.github.io/)
+* [Simple Event Correlator](https://github.com/simple-evcorr/sec) - SEC is an event correlation tool for advanced event processing.
 
 ## Databases
 
