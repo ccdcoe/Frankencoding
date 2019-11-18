@@ -26,6 +26,11 @@ This repository houses a list of open-source tools, libraries, projects, etc tha
   * [Documentation](https://www.zeek.org/documentation/index.html)
   * [Scripts for detecting cobal strike](https://github.com/ccdcoe/zeeky)
 
+### Libraries
+* [py-idstools](https://github.com/jasonish/py-idstools) - idstools: Snort and Suricata Rule and Event Utilities in Python (Including a Rule Update Tool) 
+* [Go NIDS](https://github.com/google/gonids) - gonids is a library to parse IDS rules, with a focus primarily on Suricata rule compatibility.
+* [Gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go 
+
 ## Logging
 
 ### Sources
@@ -75,28 +80,54 @@ This repository houses a list of open-source tools, libraries, projects, etc tha
 
 ### Alerts
 
-* [Scirius is a web application for Suricata ruleset management.](https://github.com/StamusNetworks/scirius)
-* [Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search](https://github.com/jasonish/evebox)
-* [The alerta monitoring system is a tool used to consolidate and de-duplicate alerts from multiple sources for quick ‘at-a-glance’ visualisation. ](https://github.com/guardian/alerta)
+* [Scirius](https://github.com/StamusNetworks/scirius) - Scirius is a web application for Suricata ruleset management.
+  * [scirius-docker](https://github.com/StamusNetworks/scirius-docker)
+* [Evebox](https://github.com/jasonish/evebox) - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search
+* [Alerta](https://github.com/alerta/alerta) - Alerta monitoring system
+  * [Alerta web UI](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
 
 ### Generic Viz
 
-* [Kibana is a data visualization and query interface for Elasticsearch.](https://github.com/elastic/kibana)
-* [Grafana - Gorgeous metric viz, dashboards & editors](https://github.com/grafana/grafana)
+* [Kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+* [Grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 
-## Programming languages
+## Programming languages and dev tools
+
+* [Rust](https://rustup.rs/) - Rust’s rich type system and ownership model guarantee memory-safety and thread-safety — and enable you to eliminate many classes of bugs at compile-time. 
+  * [Learn](https://doc.rust-lang.org/book/index.html)
+  * [Dark arts](https://doc.rust-lang.org/nomicon/)
+* [Golang](https://golang.org/) - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software. 
+  * [Learn](https://learn.go.dev/)
+* [Julia](https://julialang.org/) - Julia is a high-level, high-performance dynamic language for technical computing. 
+* [R](https://www.r-project.org/) - R is a free software environment for statistical computing and graphics.
+  * [nvim-r](https://github.com/jalvesaq/Nvim-R) - Vim plugin to work with R 
+
+### Editors
+
+* [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+  * [Conquer of Completion](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode 
+  * [plug](https://github.com/junegunn/vim-plug) - Minimalist Vim Plugin Manager 
+* [vscode](https://github.com/microsoft/vscode) - Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control.
+* [juno](https://github.com/JunoLab) - Juno is a powerful, free environment for the Julia language. 
+* [Jupyter lab](https://github.com/jupyterlab/jupyterlab) - An extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture. 
+  * [IJulia](https://github.com/JuliaLang/IJulia.jl) - IJulia is a Julia-language backend combined with the Jupyter interactive environment (also used by IPython).
+  * [gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract. 
 
 ### Libraries
 
-* [py-idstools is a collection of Python libraries for working with IDS systems](https://github.com/jasonish/py-idstools)
+* [Pandas](https://pandas.pydata.org/pandas-docs/stable/) - powerful Python data analysis toolkit
 
 ## Data science
 
-* [LogCluster is an experimental Perl-based tool for log file clustering and mining line patterns from log files](https://github.com/ristov/ristov.github.io/tree/master/logcluster)
+### Tools
+* [LogCluster](https://github.com/ristov/ristov.github.io/tree/master/logcluster) - experimental Perl-based tool for log file clustering and mining line patterns from log files
+
+### Libraries
 * [scikit-learn: machine learning in Python](https://github.com/scikit-learn/scikit-learn)
-* [TensorFlow is an open source software library for numerical computation using data flow graphs.](https://github.com/tensorflow/tensorflow)
-* [Ngraph is a set of graph related algorithms.](https://github.com/anvaka/ngraph)
-* [ngraph.pixel is fast graph renderer based on low level ShaderMaterial from three.js](https://github.com/anvaka/ngraph.pixel)
+* [TensorFlow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+  * [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
+* [Ngraph](https://github.com/anvaka/ngraph) - a set of graph related algorithms.
+  * [ngraph.pixel is fast graph renderer based on low level ShaderMaterial from three.js](https://github.com/anvaka/ngraph.pixel)
 * [Cayley is an open-source graph to be a part of the developer's toolbox](https://github.com/cayleygraph/cayley)
 
 ## Message queue and data pipelining
