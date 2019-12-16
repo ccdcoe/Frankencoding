@@ -39,7 +39,7 @@ This repository houses a list of open-source tools, libraries, projects, etc tha
   * [Improve logging format](https://github.com/ccdcoe/frankenstack/blob/master/states/blue/snoopy/config/config.ini), [normalize snoopy messages using liblognorm](https://github.com/ccdcoe/frankenstack/blob/master/states/yellow/logserver/config-rsyslog/snoopy.rulebase)
 * [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon) - Make Windows logging great again
   * [SwiftOnSecurity configs](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing 
-  * [Olaf Hartong configs](ihttps://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
+  * [Sysmon modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
 
 ### Collecting, shipping, stream processing
 
